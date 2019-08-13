@@ -21,7 +21,7 @@ Here are simple assertions I made for IMDB Search Functionality.
 * run tests via local
   Pre-requisite: webdriver should be started first
   ```
-  webdriver-manager starts
+  webdriver-manager start
   ```
   Run Tests:  
   ```
