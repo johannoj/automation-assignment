@@ -20,6 +20,10 @@ Here are simple assertions I made for IMDB Search Functionality.
 ## Run tests:
 * run tests via local
   Pre-requisite: webdriver should be started first
-    command: webdriver-manager starts
+  ```
+  webdriver-manager starts
+  ```
   Run Tests:  
-    command: protractor <spec filename>
+  ```
+  protractor <spec filename>
+  ```
